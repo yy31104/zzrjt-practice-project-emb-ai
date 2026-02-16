@@ -15,23 +15,6 @@ Users can input text in the browser, click a button, and view the sentiment labe
 - Unit tests included (`unittest`)
 - PEP8/static analysis using `pylint`
 
----
-
-## 📁 Project Structure
-
-```
-
-.
-├── SentimentAnalysis/
-│   ├── **init**.py
-│   └── sentiment_analysis.py
-├── static/
-│   └── mywebscript.js
-├── templates/
-│   └── index.html
-├── server.py
-└── test_sentiment_analysis.py
-
 ````
 
 ---
